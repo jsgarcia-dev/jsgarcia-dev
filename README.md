@@ -1,6 +1,6 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 420px; vertical-align: top; padding-right: 20px;">
+    <td style="width: 100%; vertical-align: top; padding-right: 20px;">
       <div style="width: 400px;">
         <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
           <li>🔭 I’m currently working on ...</li>
