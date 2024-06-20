@@ -1,6 +1,6 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 100%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 100%; vertical-align: top; padding-right: 10px;">
       <div style="width: 400px;">
         <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
           <li>🔭 I’m currently working on ...</li>
@@ -14,7 +14,7 @@
         </ul>
       </div>
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
+    <td style="vertical-align: top; margin-right: 20px;">
       <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 100%; height: auto; object-fit: cover;">
     </td>
   </tr>
