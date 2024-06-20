@@ -15,7 +15,7 @@
       </div>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 50%; height: auto; object-fit: cover;">
+      <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 100%; height: auto; object-fit: cover;">
     </td>
   </tr>
 </table>
