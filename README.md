@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" border-radius="8px">
   <tr>
     <td align="left" style="width: 50%;">
       <!-- Seu texto aqui -->
