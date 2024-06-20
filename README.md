@@ -22,7 +22,7 @@
 
 
 <div align="center" style="margin-bottom: 100px;">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsgarcia-dev&theme=dracula&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
 </div>
 
