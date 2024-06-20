@@ -1,7 +1,7 @@
 <div style="width: 100%; border-radius: 8px; overflow: hidden;">
   <table style="width: 100%; table-layout: fixed;">
     <tr>
-      <td style="width: 420px; vertical-align: top;">
+      <td style="width: 620px; vertical-align: top;">
         <!-- Seu texto aqui -->
         <ul align="left">
           <li>🔭 I’m currently working on ...</li>
