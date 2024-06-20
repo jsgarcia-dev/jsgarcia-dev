@@ -1,4 +1,4 @@
-<div style="display: grid; grid-template-columns: 420px 1fr; gap: 10px; width: 100%;">
+<div style="display: grid; grid-template-columns: 420px 1fr; gap: 10px; width: 100%; align-items: center;">
   <div>
     <ul align="left">
       <li>🔭 I’m currently working on ...</li>
@@ -18,6 +18,7 @@
     />
   </div>
 </div>
+
 
 
 <div align="center" style="margin-bottom: 100px;">
