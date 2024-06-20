@@ -12,7 +12,7 @@
         <li>⚡ Fun fact: ...</li>
       </ul>
     </td>
-    <td style="vertical-align: top;">
+    <td>
       <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 100%; height: auto; object-fit: cover;">
     </td>
   </tr>
