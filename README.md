@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align="left">
+    <td align="center">
       <!-- Seu texto aqui -->
       <ul>
         <li>🔭 I’m currently working on ...</li>
