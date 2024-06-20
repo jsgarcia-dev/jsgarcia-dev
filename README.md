@@ -60,8 +60,8 @@
 
 
 <div style="text-align: center; margin-top: 40px; display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true" style="width: 50%; height: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact" style="width: 50%; height: auto; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true" style="width: auto; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact" style="width: auto; height: auto; ">
 </div>
 
 
