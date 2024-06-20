@@ -1,6 +1,6 @@
 <table style="width: 100%;">
   <tr>
-    <td style="min-width: 420px; vertical-align: top;">
+    <td style="min-width: 720px; vertical-align: top;">
       <ul align="left">
         <li>🔭 I’m currently working on ...</li>
         <li>🌱 I’m currently learning ...</li>
