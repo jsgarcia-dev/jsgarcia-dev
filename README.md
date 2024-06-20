@@ -1,4 +1,4 @@
-<div className="container" style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
   <div style="width: 420px;">
     <ul align="left">
       <li>🔭 I’m currently working on ...</li>
