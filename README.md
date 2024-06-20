@@ -1,7 +1,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <ul align="left" style="margin-top: 0; list-style-type: none; padding-left: 0;">
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
         <li>🔭 I’m currently working on ...</li>
         <li>🌱 I’m currently learning ...</li>
         <li>👯 I’m looking to collaborate on ...</li>
@@ -12,7 +12,7 @@
         <li>⚡ Fun fact: ...</li>
       </ul>
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding-left: 20px;">
       <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 100%; height: auto; object-fit: cover;">
     </td>
   </tr>
