@@ -59,15 +59,7 @@
 &nbsp;
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&locale=pt-br"
-    media="(prefers-color-scheme: radical)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+![jsgarcia-dev's Stats](https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 </picture>
 
 ## Contacts:
