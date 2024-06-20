@@ -1,6 +1,7 @@
- <table width="100%">
+<div style="width: 100%; border-radius: 8px; overflow: hidden;">
+  <table style="width: 100%; table-layout: fixed;">
     <tr>
-      <td align="left" style="width: 100%;">
+      <td style="width: 420px; vertical-align: top;">
         <!-- Seu texto aqui -->
         <ul align="left">
           <li>🔭 I’m currently working on ...</li>
@@ -13,24 +14,22 @@
           <li>⚡ Fun fact: ...</li>
         </ul>
       </td>
-      <td align="left" style="width: 50%;">
+      <td style="width: calc(100% - 420px); vertical-align: top;">
         <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
-          <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" />
-          &nbsp;&nbsp;&nbsp;
+          <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="flex: 1; width: 100%; height: auto; object-fit: cover;" />
         </div>
       </td>
     </tr>
   </table>
+</div>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<div align="center" style="margin-bottom: 100px;">
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+</div>
 
-
+&nbsp;
+&nbsp;
 
 ## My Skills
 
@@ -81,9 +80,8 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+</div>
