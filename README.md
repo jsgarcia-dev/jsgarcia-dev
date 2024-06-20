@@ -1,18 +1,6 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 200px;">
-      <div>
-        <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-          <li>🔭 I’m currently working on ...</li>
-          <li>🌱 I’m currently learning ...</li>
-          <li>👯 I’m looking to collaborate on ...</li>
-          <li>🤔 I’m looking for help with ...</li>
-          <li>💬 Ask me about ...</li>
-          <li>📫 How to reach me: ...</li>
-          <li>😄 Pronouns: ...</li>
-          <li>⚡ Fun fact: ...</li>
-        </ul>
-      </div>
     </td>
     <td style="vertical-align: top; margin-right: 20px;">
       <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 100%; height: auto; object-fit: cover;">
