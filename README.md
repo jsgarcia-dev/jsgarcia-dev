@@ -60,9 +60,9 @@
 
 
 <div style="text-align: center; margin-top: 40px; display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true" style="width: 30%; height: auto; object-fit: cover;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsgarcia-dev&theme=dracula&hide_border=false" style="width: 100%; height: auto; object-fit: cover;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact" style="width: 30%; height: auto; object-fit: cover;">
 </div>
 
 
