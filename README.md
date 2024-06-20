@@ -1,4 +1,5 @@
-<table width="100%" border-radius="8px">
+<div>
+  <table width="100%" border-radius="8px">
   <tr>
     <td align="left" style="width: 50%;">
       <!-- Seu texto aqui -->
@@ -20,3 +21,4 @@
     </td>
   </tr>
 </table>
+</div>
