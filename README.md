@@ -1,6 +1,28 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" />
+ <table width="100%">
+    <tr>
+      <td align="left" style="width: 50%;">
+        <!-- Seu texto aqui -->
+        <ul>
+          <li>🔭 I’m currently working on ...</li>
+          <li>🌱 I’m currently learning ...</li>
+          <li>👯 I’m looking to collaborate on ...</li>
+          <li>🤔 I’m looking for help with ...</li>
+          <li>💬 Ask me about ...</li>
+          <li>📫 How to reach me: ...</li>
+          <li>😄 Pronouns: ...</li>
+          <li>⚡ Fun fact: ...</li>
+        </ul>
+      </td>
+      <td align="right" style="width: 50%;">
+        <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
+          <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" />
 &nbsp;&nbsp;&nbsp;
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
