@@ -1,7 +1,7 @@
 <table style="width: 100%;">
   <tr>
-    <td style="min-width: 720px; vertical-align: top;">
-      <ul align="left">
+    <td style="width: 420px;">
+      <ul align="">
         <li>🔭 I’m currently working on ...</li>
         <li>🌱 I’m currently learning ...</li>
         <li>👯 I’m looking to collaborate on ...</li>
