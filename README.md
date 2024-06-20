@@ -1,5 +1,5 @@
-<div style="display: grid; grid-template-columns: 420px 1fr; gap: 10px; width: 100%; align-items: center;">
-  <div>
+<div style="display: flex; width: 100%; gap: 10px;">
+  <div style="flex: 0 0 420px;">
     <ul align="left">
       <li>🔭 I’m currently working on ...</li>
       <li>🌱 I’m currently learning ...</li>
@@ -11,13 +11,14 @@
       <li>⚡ Fun fact: ...</li>
     </ul>
   </div>
-  <div>
+  <div style="flex: 1;">
     <img
       src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png"
       style="width: 100%; height: auto; object-fit: cover;"
     />
   </div>
 </div>
+
 
 
 
