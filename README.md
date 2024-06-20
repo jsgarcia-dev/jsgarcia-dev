@@ -1,6 +1,6 @@
 <table style="width: 100%;">
   <tr>
-    <td style="width: 420px;">
+    <td style="width: 420px; gap: 20px">
       <ul align="">
         <li>🔭 I’m currently working on ...</li>
         <li>🌱 I’m currently learning ...</li>
