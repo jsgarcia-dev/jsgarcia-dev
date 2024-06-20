@@ -1,5 +1,5 @@
 <div style="display: flex; width: 100%; gap: 10px;">
-  <div style="flex: 0 0 420px;">
+  <div style="width: 420px">
     <ul align="left">
       <li>🔭 I’m currently working on ...</li>
       <li>🌱 I’m currently learning ...</li>
