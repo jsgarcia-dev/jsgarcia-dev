@@ -22,10 +22,8 @@
 
 
 <div align="center" style="margin-bottom: 100px;">
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsgarcia-dev&theme=dracula&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)
   <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
-  ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&show_icons=true&count_private=true&hide_border=true" align="left" />  
 </div>
 
 &nbsp;
