@@ -60,6 +60,8 @@
 
 
 ![jsgarcia-dev's Stats](https://github-readme-stats.vercel.app/api?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![jsgarcia-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsgarcia-dev&theme=dracula&hide_border=false)
+![jsgarcia-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsgarcia-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
 ## Contacts:
