@@ -1,4 +1,4 @@
-<div>
+<div className="flex">
   <div>
     <ul align="left">
       <li>🔭 I’m currently working on ...</li>
