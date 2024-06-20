@@ -1,27 +1,24 @@
-<div style="width: 100%; border-radius: 8px; overflow: hidden;">
-  <table style="width: 100%; table-layout: fixed;">
-    <tr>
-      <td style="width: 620px; vertical-align: top;">
-        <!-- Seu texto aqui -->
-        <ul align="left">
-          <li>🔭 I’m currently working on ...</li>
-          <li>🌱 I’m currently learning ...</li>
-          <li>👯 I’m looking to collaborate on ...</li>
-          <li>🤔 I’m looking for help with ...</li>
-          <li>💬 Ask me about ...</li>
-          <li>📫 How to reach me: ...</li>
-          <li>😄 Pronouns: ...</li>
-          <li>⚡ Fun fact: ...</li>
-        </ul>
-      </td>
-      <td style="width: calc(100% - 420px); vertical-align: top;">
-        <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
-          <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="flex: 1; width: 100%; height: auto; object-fit: cover;" />
-        </div>
-      </td>
-    </tr>
-  </table>
+<div style="display: grid; grid-template-columns: 420px 1fr; gap: 10px; width: 100%;">
+  <div>
+    <ul align="left">
+      <li>🔭 I’m currently working on ...</li>
+      <li>🌱 I’m currently learning ...</li>
+      <li>👯 I’m looking to collaborate on ...</li>
+      <li>🤔 I’m looking for help with ...</li>
+      <li>💬 Ask me about ...</li>
+      <li>📫 How to reach me: ...</li>
+      <li>😄 Pronouns: ...</li>
+      <li>⚡ Fun fact: ...</li>
+    </ul>
+  </div>
+  <div>
+    <img
+      src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png"
+      style="width: 100%; height: auto; object-fit: cover;"
+    />
+  </div>
 </div>
+
 
 <div align="center" style="margin-bottom: 100px;">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
