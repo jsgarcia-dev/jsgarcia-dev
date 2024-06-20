@@ -2,7 +2,7 @@
     <tr>
       <td align="left" style="width: 100%;">
         <!-- Seu texto aqui -->
-        <ul>
+        <ul align="left">
           <li>🔭 I’m currently working on ...</li>
           <li>🌱 I’m currently learning ...</li>
           <li>👯 I’m looking to collaborate on ...</li>
