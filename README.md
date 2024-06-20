@@ -1,4 +1,4 @@
-<div>
+<div width="100%" border-radius="8px">
   <table width="100%" border-radius="8px">
   <tr>
     <td align="left" style="width: 50%;">
