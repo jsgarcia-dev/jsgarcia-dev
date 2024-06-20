@@ -1,23 +1,22 @@
-<div style="display: flex; align-items: flex-start;">
-  <div style="width: 420px;">
-    <ul align="left">
-      <li>🔭 I’m currently working on ...</li>
-      <li>🌱 I’m currently learning ...</li>
-      <li>👯 I’m looking to collaborate on ...</li>
-      <li>🤔 I’m looking for help with ...</li>
-      <li>💬 Ask me about ...</li>
-      <li>📫 How to reach me: ...</li>
-      <li>😄 Pronouns: ...</li>
-      <li>⚡ Fun fact: ...</li>
-    </ul>
-  </div>
-  <div style="flex-grow: 1;">
-    <img
-      src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png"
-      style="width: 100%; height: auto; object-fit: cover;"
-    />
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 420px; vertical-align: top;">
+      <ul align="left">
+        <li>🔭 I’m currently working on ...</li>
+        <li>🌱 I’m currently learning ...</li>
+        <li>👯 I’m looking to collaborate on ...</li>
+        <li>🤔 I’m looking for help with ...</li>
+        <li>💬 Ask me about ...</li>
+        <li>📫 How to reach me: ...</li>
+        <li>😄 Pronouns: ...</li>
+        <li>⚡ Fun fact: ...</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png" style="width: 100%; height: auto; object-fit: cover;">
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 &nbsp;
