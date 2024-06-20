@@ -1,5 +1,5 @@
-<div className="flex">
-  <div>
+<div className="container" style="display: flex;">
+  <div style="width: 420px;">
     <ul align="left">
       <li>🔭 I’m currently working on ...</li>
       <li>🌱 I’m currently learning ...</li>
@@ -11,7 +11,7 @@
       <li>⚡ Fun fact: ...</li>
     </ul>
   </div>
-  <div>
+  <div style="flex-grow: 1;">
     <img
       src="https://github.com/jsgarcia-dev/jsgarcia-dev/blob/main/assets/banner.png"
       style="width: 100%; height: auto; object-fit: cover;"
